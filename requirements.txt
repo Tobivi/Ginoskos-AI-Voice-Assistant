@@ -4,6 +4,7 @@ langchain-core
 langchain-community
 langchain-openai
 # pyaudio
+portaudio
 py3-tts
 speech_recognition
 python-dotenv
