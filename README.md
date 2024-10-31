@@ -1,0 +1,2 @@
+### Ginoskos AI Assistant
+The Ginoskos AI Assistant is an interactive AI-based virtual assistant powered by Streamlit, LangChain, and OpenAI's language models. Designed to offer a seamless voice-enabled interface, Jarvis listens to voice input, generates concise responses, and speaks the replies back to the user. You can use it for tasks such as querying, interacting in natural language, or building a psychology-themed conversational assistant, thanks to its configurable capabilities.
